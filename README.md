@@ -5,13 +5,14 @@ ChatMate is a real-time chat application built using the **MERN stack**. It allo
 ## Features
 - **User Authentication**: Users can sign up, log in, and manage their profiles.
 - **Real-Time Messaging**: Users can send and receive messages in real-time using **Socket.io**.
+- **Image Sharing**: Users can send and receive photos, which are stored securely using **Cloudinary**.
 - **Message History**: The chat history is stored in a **MongoDB** database for future reference.
 - **Responsive Design**: The application is fully responsive and works across devices.
 
 ## Tech Stack
 - **Frontend**: React.js
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Database**: MongoDB, Cloudinary ( for storing images / videos )
 - **Real-Time Communication**: Socket.io
 - **HTTP Requests**: Axios
 
@@ -20,7 +21,7 @@ ChatMate is a real-time chat application built using the **MERN stack**. It allo
 ### Clone the repository
 
 ```bash
-git clone https://github.com/charanpagadala07/chatmate.git
+git clone https://github.com/charanpagadala07/ChatMate.git
 ```
 
 ### Navigate to project directory and Install dependencies
