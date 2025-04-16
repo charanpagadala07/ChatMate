@@ -55,6 +55,44 @@ cd frontend/
 npm run dev
 ```
 
-### Navigate to PORT localhost:5173 
-Once both frontend and backend are running, navigate to `http://localhost:5173` in your browser to access ChatMate.
+### Application Running on Port 3000
+ - Now open your browser and navigate to:
+```bash
+http://localhost:3000
+```
+
+## 🌟 Usage  
+
+### How to Use Flux:  
+1. **Sign Up/Sign In**: Create an account or log in with an existing one.  
+2. **Create Blogs**: Write Blogs with text, images, videos.  
+3. **Follow and Engage**: Build a network by following users and interacting with their blogs.  
+
+---
+
+## 🤝 Contributing  
+
+Contributions are welcome! Here's how you can get involved:  
+
+1. Fork the repository.  
+2. Create a new branch (`git checkout -b feature-name`).  
+3. Commit your changes (`git commit -m 'Add some feature'`).  
+4. Push to the branch (`git push origin feature-name`).  
+5. Open a pull request.  
+
+---
+
+## 📧 Contact  
+
+If you have any questions or suggestions, feel free to reach out:  
+- **Name**: Charan Pagadala
+- **Email**: [charanpagadala2004@gmail.com](mailto:charanpagadala2004@gmail.com)  
+- **GitHub**: [CharanPagadala](https://github.com/charanpagadala07)  
+
+---
+
+### 📌 Note  
+
+Feel free to update this README file as the project evolves. Let me know if you'd like me to refine it further!  
+
 
